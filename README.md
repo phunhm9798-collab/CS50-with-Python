@@ -1,29 +1,30 @@
-[CS50 with Python](url)
+[CS50 with Python](https://cs50.harvard.edu/python/)
 
 My Solutions for all the problem sets.
 
 To be updated as I gradually complete the course and solve the problems.
 
 [Week 0: Functions, Variables
-](url)
-[- Indoor voice](url)
+](https://github.com/phunhm9798-collab/CS50-with-Python/tree/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%200)
 
-[- Playback Speed](url)
+[- Indoor voice](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%200/indoor.py)
 
-[- Making Faces](url)
+[- Playback Speed](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%200/playback.py)
 
-[- Einstein](url)
+[- Making Faces](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%200/faces.py)
 
-[- Tip Calculator](url)
+[- Einstein](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%200/eistein.py)
 
-[Week 1: Conditionals](url)
+[- Tip Calculator](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%200/tip.py)
 
-[- Deep Thoughts](url)
+[Week 1: Conditionals](https://github.com/phunhm9798-collab/CS50-with-Python/tree/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%201)
 
-[- Home Federal Savings Bank](url)
+[- Deep Thoughts](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%201/deep.py)
 
-[- File Extensions](url)
+[- Home Federal Savings Bank](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%201/bank.py)
 
-[- Math Interpreter](url)
+[- File Extensions](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%201/extensions.py)
 
-[- Meal Time](url)
+[- Math Interpreter](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%201/interpreter.py)
+
+[- Meal Time](https://github.com/phunhm9798-collab/CS50-with-Python/blob/dcc90d6a5ba19964862f9dc07dfbc36f6776c4ac/Week%201/meal.py)
