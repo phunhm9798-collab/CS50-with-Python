@@ -4,8 +4,8 @@ My Solutions for all the problem sets.
 
 To be updated as I gradually complete the course and solve the problems.
 
-[Week 0: Functions, variables](url)
-
+[Week 0: Functions, Variables
+](url)
 [- Indoor voice](url)
 
 [- Playback Speed](url)
