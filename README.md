@@ -34,7 +34,7 @@ The problem(s) that have a ! symbol attached at the end is(are) especially hard
 
 [Week 2: Loops](https://github.com/phunhm9798-collab/CS50-with-Python/tree/6e02861e3f868f115d0556c7f76af192494270f8/Week%202)
 
-- [camelCase](https://github.com/phunhm9798-collab/CS50-with-Python/blob/6e02861e3f868f115d0556c7f76af192494270f8/Week%202/camel.py)
+[- camelCase](https://github.com/phunhm9798-collab/CS50-with-Python/blob/8c39899edcaaedee7bfd03fa4e0d51dcb8fd8e1f/Week%202/camel.py)
 
 [- Coke Machine](https://github.com/phunhm9798-collab/CS50-with-Python/blob/6e02861e3f868f115d0556c7f76af192494270f8/Week%202/coke.py)
 
