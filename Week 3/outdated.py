@@ -1,4 +1,4 @@
-# Define a list of months for dat verification
+# Define a list of months for data verification
 list = [
     "January",
     "February",
