@@ -44,13 +44,13 @@ The problem(s) that have a ! symbol attached at the end is(are) especially hard
 
 [- Nutrition Facts](https://github.com/phunhm9798-collab/CS50-with-Python/blob/6e02861e3f868f115d0556c7f76af192494270f8/Week%202/nutrition.py)
 
-[Week 3: Exceptions]([(https://github.com/phunhm9798-collab/CS50-with-Python/tree/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203)])
+[Week 3: Exceptions](https://github.com/phunhm9798-collab/CS50-with-Python/tree/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203)
 
-[- Fuel Gauge]([(https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/fuel.py)])
+[- Fuel Gauge](https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/fuel.py)
 
-[- Felipe's Taqueria]([https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/taqueria.py])
+[- Felipe's Taqueria](https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/taqueria.py)
 
-[- Grocery List]([(https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/grocery.py)])
+[- Grocery List](https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/grocery.py)
 
-[- Outdated]([https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/outdated.py])
+[- Outdated](https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/outdated.py)
 
