@@ -54,3 +54,16 @@ The problem(s) that have a ! symbol attached at the end is(are) especially hard
 
 [- Outdated](https://github.com/phunhm9798-collab/CS50-with-Python/blob/f74ee16b39493a9ab31a33090050eed6b6bf2b7d/Week%203/outdated.py)
 
+[Week 4: Libraries](https://github.com/phunhm9798-collab/CS50-with-Python/tree/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204)
+
+[- Emojize](https://github.com/phunhm9798-collab/CS50-with-Python/blob/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204/emojize.py)
+
+[- Frank, Ian and Glen’s Letters](https://github.com/phunhm9798-collab/CS50-with-Python/blob/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204/figlet.py)
+
+[- Adieu, adieu](https://github.com/phunhm9798-collab/CS50-with-Python/blob/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204/adieu.py)
+
+[- Guessing Game](https://github.com/phunhm9798-collab/CS50-with-Python/blob/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204/game.py)
+
+[- Little Professor](https://github.com/phunhm9798-collab/CS50-with-Python/blob/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204/professor.py) !
+
+[- Bitcoin price index](https://github.com/phunhm9798-collab/CS50-with-Python/blob/99bf95840238adc1e24fa6ce6c6e0c656f08abb4/Week%204/bitcoin.py) !
